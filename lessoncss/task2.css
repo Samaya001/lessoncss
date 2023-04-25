@@ -1,0 +1,23 @@
+.margin{
+    border: dashed rgb(233, 11, 48);
+    height: 500px;
+    width: 600px;
+text-align: center;
+    
+}
+.border{
+    border:20px solid rgb(236, 8, 46);
+    height: 400px;
+    width: 400px;
+     text-align: center;
+     margin-left: 100px;
+    
+}
+.content{
+    border: dashed rgb(236, 21, 57);
+    height: 150px;
+    width: 300px;
+    margin-right: 50px;
+    margin-left: 50px;
+    margin-bottom: 200px;
+}

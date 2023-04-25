@@ -1,0 +1,24 @@
+.a{
+    border: solid;
+}
+.b{
+    border:double
+}
+.c{
+    border: groove;
+}
+.d{
+    border: ridge;
+}
+.e{
+    border: inset;
+}
+.f{
+    border: outset;
+}
+.g{
+    border: dashed;
+}
+.h{
+    border: dotted;
+}

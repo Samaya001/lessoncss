@@ -1,0 +1,36 @@
+.salam{
+    width: 800px;
+    height: 100px;
+    background-color: aqua;
+    
+}
+h1{
+    padding-left: 10px;
+    padding-top: 20px;
+}
+li{
+    list-style-type: none
+    ;color: red;
+}
+.salam1{
+    width: 300px;
+    height: 300px;
+background-color: blue;
+}
+.salam2{
+    width: 500px;
+    height: 250px;
+    background-color: bisque;
+    text-align: center;
+    padding-top: 50px;
+    
+}
+.container{
+    display: flex;
+}
+.salam3{
+    width: 800px;
+    height: 30px;
+    background-color: brown;
+    text-align: center;
+}

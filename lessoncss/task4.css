@@ -1,0 +1,12 @@
+.salam{
+    height: 200px;
+    width: 500px;
+    border: 10px solid green;
+}
+.sagol{
+    height: 200px;
+    width: 600px;
+    border: 10px solid yellow;
+    padding-left: 30px;
+    padding-top: 30px;
+}
